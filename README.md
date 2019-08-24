@@ -1,5 +1,5 @@
 # Email_Sender
-Hi!
+Hi!</br>
 I'm learning python language on Udem and my "teacher" in one of the lessons showed me how to send email on python.</br>
 So I had think...why don't I try to create a python's class to send the emails easily? why not?</br>
 So...I did it, perhaps</br>
